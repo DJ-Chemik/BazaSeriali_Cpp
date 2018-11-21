@@ -1,0 +1,4 @@
+﻿  Menu.cpp
+c:\users\mc dj\desktop\bazaseriali\bazaseriali\menu.cpp(97): warning C4101: "decission": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\mc dj\desktop\bazaseriali\bazaseriali\menu.cpp(115): warning C4101: "typ_produkcji": lokalna zmienna, do której nie istnieje odwołanie
+  BazaSeriali.vcxproj -> C:\Users\MC DJ\Desktop\BazaSeriali\Debug\BazaSeriali.exe
