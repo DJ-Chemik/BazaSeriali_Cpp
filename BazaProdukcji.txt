@@ -1,0 +1,4 @@
+0	Droga do El Dorado	7	1	91
+1	Dexter	8	16	39	3	1
+2	Mecz	4	23	6	2	4
+0	Milosc w Zakopanem	10	2	100
